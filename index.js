@@ -4,4 +4,4 @@ const greet = () => {
 	console.log(`greetings from ${version}`);
 }
 
-export { greet };
+exports.greet = greet;
