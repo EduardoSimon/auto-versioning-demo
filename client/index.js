@@ -1,3 +1,3 @@
-import { greet } from "automatic-semver-demo";
+import * as lib from "automatic-semver-demo";
 
-console.log(greet());
+console.log(lib.greet());
