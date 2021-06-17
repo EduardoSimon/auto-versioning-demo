@@ -9,6 +9,7 @@
   },
   "license": "ISC",
   "devDependencies": {
+    "@semantic-release/changelog": "^5.0.1",
     "semantic-release": "^17.4.4"
   },
   "repository": {
@@ -16,6 +17,16 @@
     "url": "https://github.com/EduardoSimon/auto-versioning-demo.git"
   },
   "release": {
-    "branches": ["master", "next"]
+    "branches": [
+      "master",
+      "next"
+    ],
+    "plugins": [
+      "@semantic-release/commit-analyzer",
+      "@semantic-release/release-notes-generator",
+      "@semantic-release/changelog",
+      "@semantic-release/npm",
+      "@semantic-release/git"
+    ]
   }
 }
