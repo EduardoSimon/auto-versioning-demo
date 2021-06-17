@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "automatic-semver-demo": "^2.0.0"
+    "automatic-semver-demo": "^3.0.0"
   }
 }
