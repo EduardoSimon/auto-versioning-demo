@@ -3,9 +3,10 @@ var version = require('./package.json').version;
 const greet = () => {
 	console.log(`greetings from ${version}`);
 }
-const foo = () => {
+const bar = () => {
 	console.log(`bar`);
 }
 
-exports.foo = foo;
+
+exports.bar = bar;
 exports.greet = greet;
