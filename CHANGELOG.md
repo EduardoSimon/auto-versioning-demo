@@ -1,3 +1,10 @@
+# [3.1.0](https://github.com/EduardoSimon/auto-versioning-demo/compare/v3.0.0...v3.1.0) (2021-06-18)
+
+
+### Features
+
+* 🎸 add foo method and create readme ([c06e5d7](https://github.com/EduardoSimon/auto-versioning-demo/commit/c06e5d76814eb8281f025d3d3fd7e2a83ff22fa1))
+
 # [3.0.0](https://github.com/EduardoSimon/auto-versioning-demo/compare/v2.1.0...v3.0.0) (2021-06-18)
 
 
