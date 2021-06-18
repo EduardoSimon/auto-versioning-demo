@@ -1,6 +1,6 @@
 {
   "name": "automatic-semver-demo",
-  "version": "3.1.0",
+  "version": "4.0.0",
   "description": "Auto versioning demo",
   "main": "index.js",
   "scripts": {
