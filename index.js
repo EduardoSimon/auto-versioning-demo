@@ -6,10 +6,10 @@ const greet = () => {
 const bar = () => {
 	console.log(`bar`);
 }
-const foo = () => {
+const fooo = () => {
 	console.log('foo');
 }
 
-exports.foo = foo;
+exports.fooo = fooo;
 exports.bar = bar;
 exports.greet = greet;
