@@ -3,7 +3,7 @@ var version = require('./package.json').version;
 const greet = () => {
 	console.log(`greetings from ${version}`);
 }
-const bar = () => {
+const bar = (hello) => {
 	console.log(`bar`);
 }
 const fooo = () => {
