@@ -1,3 +1,15 @@
+# [5.0.0](https://github.com/EduardoSimon/auto-versioning-demo/compare/v4.0.0...v5.0.0) (2021-06-24)
+
+
+### Features
+
+* 🎸 add param to bar ([801a679](https://github.com/EduardoSimon/auto-versioning-demo/commit/801a6797fc4e43002cb66c1ebb1f37747546c2c8))
+
+
+### BREAKING CHANGES
+
+* 🧨 add hello param to bar
+
 # [4.0.0](https://github.com/EduardoSimon/auto-versioning-demo/compare/v3.1.0...v4.0.0) (2021-06-18)
 
 
